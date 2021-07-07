@@ -1,0 +1,7 @@
+
+s3:
+  region: ru
+  accessKey: 86377458-2a6f-4ace-b70d-0388ed24518c
+  secretKey: 0iHddWpwJBmZPm0x+gDq5GHE2soLuhkjTkyOxrPL
+  serviceEndpoint: https://cresh-test.s3pd01.sbercloud.ru
+  bucketName: bdd6e372-5e5d-4526-860e-b5e65f8b7bcb
